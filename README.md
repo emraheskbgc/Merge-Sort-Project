@@ -15,3 +15,6 @@
 
 + 2 : Big-O Gösterimini Yazınız
     + Big-O(nlogn) -> Big-O(6log6)
+
+    # Patika Linki
+    [Patika.dev](www.patika.dev)
